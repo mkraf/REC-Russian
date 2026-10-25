@@ -10,7 +10,7 @@
 <a href="https://github.com/mkraf/REC-Russian/releases"><img src="https://img.shields.io/github/downloads/mkraf/REC-Russian/total?style=for-the-badge&label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=2EA043" alt="Скачиваний"></a>
 </p>
 
-💬 **Заходите на наш [Discord-сервер](https://discord.gg/8e3z2Tu5pa)**: новости, помощь с установкой и сообщения об ошибках перевода.
+💬 **Заходите на наш [Discord-сервер](https://discord.gg/8e3z2Tu5pa)**: новости, помощь с установкой и сообщения об ошибках перевода. 
 
 > ⚠️ **Внимание:** перевод может содержать ошибки. Возможны баги, обрезанный или непереведённый текст, а также неточности в переводе. Если заметили проблему, сообщите в [Issues](../../issues).
 
