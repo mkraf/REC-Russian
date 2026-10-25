@@ -6,8 +6,8 @@
 
 <p align="center">
 <a href="https://discord.gg/8e3z2Tu5pa"><img src="https://img.shields.io/badge/Discord-%D0%9F%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://github.com/mkraf/REC-Russian/releases/latest"><img src="https://img.shields.io/github/v/release/mkraf/REC-Russian?style=for-the-badge&label=%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7&color=E5484D" alt="Релиз"></a>
-<a href="https://github.com/mkraf/REC-Russian/releases"><img src="https://img.shields.io/github/downloads/mkraf/REC-Russian/total?style=for-the-badge&label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=2EA043" alt="Скачиваний"></a>
+<a href="https://github.com/mkraf/REC-Russian/releases/latest"><img src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7-v1.0-E5484D?style=for-the-badge" alt="Релиз"></a>
+<a href="https://github.com/mkraf/REC-Russian/releases/latest"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Скачать"></a>
 </p>
 
 💬 **Заходите на наш [Discord-сервер](https://discord.gg/8e3z2Tu5pa)**: новости, помощь с установкой и сообщения об ошибках перевода. 
